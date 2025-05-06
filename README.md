@@ -4,7 +4,7 @@
 A lightweight Go framework for building **ReAct pattern agents** — inspired by LangChain.
 It lets you combine LLMs, tools, and structured prompts to create agentic software.
 
----
+
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ It lets you combine LLMs, tools, and structured prompts to create agentic softwa
 ✅ Ready-to-use tools: Calculator, Search
 ✅ Simple developer API for fast prototyping
 
----
+
 
 ## 🚀 Quick Usage
 
